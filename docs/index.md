@@ -25,6 +25,7 @@ Figure 1 shows the header of the script. IT shows the description of the script 
 Figure 1. Header of the script.
 
 Figure 2 shows the pickling process. First, it imports the pickle from the Python. Then, it defines the variety, shape, and the brand of the pickle. Note that ‘wb’ was used to write to a binary file. It opens, creates one if there is no file created already, the file, storing the data, then close the file.
+
 ![image](https://user-images.githubusercontent.com/83855330/119437714-8d51c600-bcd3-11eb-8e47-fb0250cc7dad.png)
 
 Figure 2. Pickling and creating the data file.
